@@ -40,37 +40,48 @@ profiles:
     url: https://www.instagram.com/adelinachandra/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Doctoral Candidate
+    institution: Environmental Policy, Department of Environmental System Science, ETH Zürich, Switzerland
+    date_start: 2020-11-01
+    date_end: ""
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Affiliated with Conservation and Development, Department of Geography, University of Cambridge, United Kingdom \
+      Topic: Forest-focused commodity supply chain in the deforestation-risk commodities, focusing on palm oil sector.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Research Fellow
+    institution: Department of Geography, University of Cambridge
+    date_start: 2023-05-01
+    date_end: 2023-06-30
+    # summary: |
+    #   Affiliated with Conservation and Development, Department of Geography, University of Cambridge, United Kingdom \
+    #   Topic: Forest-focused commodity supply chain in the deforestation-risk commodities, focusing on palm oil sector.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MSc in Environmental Studies and Sustainability Science
+    institution: Faculty of Social Science, Lund University, Sweden 
+    date_start: 2020-05-31
+    date_end: 2018-08-01
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Geography (Hons)
+    institution: Faculty of Mathematics and Natural Sciences, University of Indonesia, Indonesia
+    date_start: 2015-01-31
+    date_end: 2011-09-01
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
